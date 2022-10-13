@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite errors="0" failures="0" tests="1" skipped="0" name=".Users.cristianocunha.Documents.Projects.flutter.SF_flutter_demo.my_app.test.unit" timestamp="2022-10-12T14:44:29">
+    <properties>
+      <property name="platform" value="vm"/>
+    </properties>
+    <testcase classname=".Users.cristianocunha.Documents.Projects.flutter.SF_flutter_demo.my_app.test.unit" name="Counter value should be incremented" time="0.025"/>
+  </testsuite>
+</testsuites>

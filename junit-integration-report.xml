@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite errors="0" failures="0" tests="1" skipped="0" name=".Users.cristianocunha.Documents.Projects.flutter.SF_flutter_demo.my_app.integration_test.integration" timestamp="2022-10-12T14:14:34">
+    <properties>
+      <property name="platform" value="vm"/>
+    </properties>
+    <testcase classname=".Users.cristianocunha.Documents.Projects.flutter.SF_flutter_demo.my_app.integration_test.integration" name="end-to-end test tap on the floating action button, verify counter" time="1.61"/>
+  </testsuite>
+</testsuites>
